@@ -1,0 +1,5 @@
+{
+  "watch": ["api"],
+  "scripts": "app.js",
+  "ext": "js,jsx"
+}
