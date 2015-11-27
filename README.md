@@ -1,4 +1,4 @@
-# SailsJS Isomorphic
+# Sails.js Isomorphic
 
 ## Example Sails Isomarphic Application.
 
